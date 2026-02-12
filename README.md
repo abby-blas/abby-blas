@@ -12,8 +12,6 @@ I enjoy working with real-world datasets, exploring patterns, and communicating 
 ## Featured Projects
 - **Transaction Risk Analysis & Flagging Logic**
   - Analyzed transaction-level data using Python and SQL to identify high-risk activity patterns. Developed rule-based flagging logic and evaluated detection trade offs to support structured fraud risk assessment.
-- **Decision Modeling for Application Approval**
-  - Comparison of classification models to support data-driven approval decisions.
 - **Loan Risk Modeling & Decision Threshold Analysis**
   - Built and compared classification models to evaluate loan default risk. Applied decision threshold analysis to assess trade-offs between approval rates and potential losses for data-informed decision support.
 
